@@ -1,0 +1,17 @@
+Script started on 2020-03-11 18:55:30+0800
+]0;h99-la@h99la-VB: ~/Desktop/git[01;32mh99-la@h99la-VB[00m:[01;34m~/Desktop/git[00m$ whoami; pwd
+h99-la
+/home/h99-la/Desktop/git
+]0;h99-la@h99la-VB: ~/Desktop/git[01;32mh99-la@h99la-VB[00m:[01;34m~/Desktop/git[00m$ git config -l
+[?1h=user.name=H99-la[m
+user.email=hiiluann994q@gmail.com[m
+credential.helper=cache --timeout=28800[m
+[K[?1l>]0;h99-la@h99la-VB: ~/Desktop/git[01;32mh99-la@h99la-VB[00m:[01;34m~/Desktop/git[00m$ git clone https://github.com/H99-la/lab1.git
+Cloning into 'lab1'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+]0;h99-la@h99la-VB: ~/Desktop/git[01;32mh99-la@h99la-VB[00m:[01;34m~/Desktop/git[00m$ exit
+
+Script done on 2020-03-11 18:56:09+0800
